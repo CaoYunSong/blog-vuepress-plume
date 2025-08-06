@@ -6,7 +6,7 @@ config:
     type: banner
     full: true
     background: tint-plate
-    banner: http://c16.xyz/random-anime/
+    # banner: http://c16.xyz/random-anime/
     bannerMask:
       light: 0.7
       dark: 0.3
