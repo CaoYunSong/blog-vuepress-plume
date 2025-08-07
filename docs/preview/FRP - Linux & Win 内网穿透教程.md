@@ -1,8 +1,8 @@
 ---
 title: FRP - Linux & Win 内网穿透教程
 createTime: 2025/08/06 14:16:23
-# cover: http://c16.xyz/random-anime/
-cover: https://api.bimg.cc/random
+cover: http://c16.xyz/random-image/
+# cover: https://api.bimg.cc/random
 tags:
   - 教程
 coverStyle:
